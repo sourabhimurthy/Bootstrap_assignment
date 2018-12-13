@@ -14,27 +14,36 @@ img{
 }
 
           
-
-           .card-deck{
+.card-deck{
                margin:10px;
                padding: 1rem;
            }
 
-           .card-title{
+.card-title{
                text-align: center;
            }
-           .card-img-top{
+.card-img-top{
                height:100%;
            }
-           .modal{
-               color: grey;
-           }
+.modal{
+       color: grey;
+      }
 
 
-           .container-fluid{
+.container-fluid{
                margin-top: 200px;
                margin-left: 40px;
            }
-           .row h2{
-               text-align: center;
-           }
+.row h2{
+      text-align: center;
+      }
+
+      #intro {
+        background: url("../images/Come-Visit-Us.jpg") no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        height: 100%;
+        width: 100%;
+     }
